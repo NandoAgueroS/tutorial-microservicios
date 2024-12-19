@@ -7,5 +7,5 @@ spring:
       server:
         git:
           default-label: config-server
-        uri:
-        search-paths: config-service
+          uri: https://github.com/NandoAgueroS/tutorial-microservicios
+          search-paths: config-data
